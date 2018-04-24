@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Imran Hossain Arif"
   avatar           : "backgroundDefault.jpg.jpg"
-  bio              : description
+  bio              : &description
   location         : "Location"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=bzA1rU0AAAAJ"
