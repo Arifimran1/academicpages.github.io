@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Imran Hossain Arif"
   avatar           : "backgroundDefault.jpg.jpg"
-  bio              : &description
-  location         : "Location"
+  bio              : "Undergraduate student in Khulna University."
+  location         : "Khulna University, Khulna."
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=bzA1rU0AAAAJ"
   email            :
